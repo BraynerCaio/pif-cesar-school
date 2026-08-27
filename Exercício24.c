@@ -1,4 +1,3 @@
-/* Questao 24 - Tabela de notas escolares alinhada */
 #include <stdio.h>
 #include <stdlib.h>
 
