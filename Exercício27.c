@@ -1,4 +1,3 @@
-/* Questao 27 - Conversao de segundos em horas, minutos e segundos */
 #include <stdio.h>
 #include <stdlib.h>
 
