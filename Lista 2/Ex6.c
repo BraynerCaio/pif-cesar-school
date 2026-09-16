@@ -1,0 +1,2 @@
+//a) a diferença está em quando o incremento é "visível" para quem usa a expressão: no prefixado, o incremento já foi aplicado; no pós-fixado, o incremento só se manifesta depois que o valor antigo já foi consumido.
+//b) Esse tipo de código deve ser evitado, pois seu resultado não é garantido pelo padrão da linguagem — é considerado um erro de programação, mesmo que "funcione" de forma aparentemente previsível em um compilador específico. O certo é sempre separar a modificação da variável em uma instrução isolada.
