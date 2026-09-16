@@ -1,5 +1,0 @@
-// 13) Alternativa "C"
-// 14) Alternativa "A"
-// 15) Alternativa "C"
-// 16) Alternativa "C"
-// 17) Alternativa "A,B e C"
